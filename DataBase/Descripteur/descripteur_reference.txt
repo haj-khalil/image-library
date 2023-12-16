@@ -1,0 +1,9 @@
+Titre : # Nom de l'image
+Patient : # Patient auquel l'image appartient
+Technique : # Technique utilisée pour obtenir l'image (IRM/PET/CT)
+Type : # Type du fichier (.dcm/.png.jpeg)
+Coût : # Coût de l'examen (€)
+Numéro : # Rang de l'image
+Poids : # Poids de l'image (Ko)
+Source : # Lieux de l'examen
+Taille : # Dimensions de l'image

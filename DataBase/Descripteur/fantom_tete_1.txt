@@ -1,0 +1,9 @@
+Titre : fantome_tete_2
+Patient : Fantome
+Technique : CT
+Type : .dcm
+Coût : 50 €
+Numéro : 3
+Poids : 527 776 bytes bytes
+Source : Centre Antoine Lacassagne Nice
+Taille : 512x512

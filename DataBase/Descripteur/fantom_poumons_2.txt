@@ -1,0 +1,9 @@
+Titre : fantome_poumon_2
+Patient : Fantome
+Technique : CT
+Type : .dcm
+Coût : 45 €
+Numéro : 2
+Poids : 526 080 bytes
+Source : Hôpital de Rangeuil Toulouse
+Taille : 512x512
