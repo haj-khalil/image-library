@@ -1,0 +1,10 @@
+1
+poumon_1
+hamid
+CT
+.dcm
+404
+526080
+hopitale centrale 
+512
+512    

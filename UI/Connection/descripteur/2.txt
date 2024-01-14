@@ -1,0 +1,10 @@
+2
+poumon_12
+hamid
+MRI
+.dcm
+505
+648645
+hopitale centrale 
+1024
+1024    
